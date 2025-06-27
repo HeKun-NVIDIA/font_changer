@@ -1,0 +1,11 @@
+{
+  "ports": {
+    "backend": 5001,
+    "frontend": 5173
+  },
+  "settings": {
+    "auto_open_browser": true,
+    "max_file_size_mb": 50
+  }
+}
+
